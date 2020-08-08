@@ -1,9 +1,10 @@
-
 {
   "store.home": {
     "blocks": [
-      "shelf"
+      "slider-layout#home"
     ]
   }
 
 }
+
+
